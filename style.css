@@ -1,0 +1,48 @@
+*{
+    scroll-behavior: smooth;
+}
+
+
+section{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.6)),url(img/background1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Products  */
+#ourProducts{
+    background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.8)),url(img/background2.jpg);
+    height: min(400px, 50vw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 90px;
+}
+
+/* Bulk */
+header{
+    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.9)),url(img/background4.jpg);
+    height: min(400px, 50vw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 90px;
+    background-attachment: fixed;
+}
+
+/* About */
+.header{
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.9)),url(img/background5.jpg);
+    height: min(400px, 50vw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 90px;
+    background-attachment: fixed;
+}
+
+
